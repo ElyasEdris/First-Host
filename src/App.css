@@ -202,7 +202,7 @@ h4 {
 
 .one:hover {
     animation: butto 80s alternate infinite;
-    ;
+    transition: all 0.5s ease-in-out;
 }
 
 .one_1 {
